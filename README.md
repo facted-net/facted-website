@@ -1,6 +1,6 @@
-# proven-website
+# facted-website
 
-This is the website [proven.systems](http://proven.systems).  
+This is the website [facted.net](http://facted.net).  
 
 It is developed using [Hugo](https://www.gohugo.io/) and the [Dimension](http://themes.gohugo.io/dimension/) theme based on [HTML5 UP](https://html5up.net/uploads/demos/dimension/).
 
