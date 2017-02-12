@@ -1,36 +1,36 @@
 languageCode = "en-us"
 title = "Dimension"
-baseurl = "http://proven.systems/ipns/proven.systems/"
+baseurl = "http://facted.net/ipns/facted.net/"
 theme = "dimension"
 canonifyURLs = true
 
 [params]
-  title = "Proven"
-  description = 'Smart contracts for independently verifying the origin of digital documents'
+  title = "Facted"
+  description = "Make your photos Proven Facts so that viewers can independently verify their origin"
   logo = "fa-diamond"
   copyright = "1AmOXsGnfXdbNg3RMTyPCHkn2aT"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "https://twitter.com/proven_sys"
+  link = "https://twitter.com/facted_net"
 
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "https://www.facebook.com/systems.proven"
+  link = "https://www.facebook.com/pg/Facted-372487459798987"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "https://www.instagram.com/proven_sys"
+  link = "https://www.instagram.com/facted_net"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "https://github.com/proven-systems"
+  link = "https://github.com/facted-net"
 
 [[params.social]]
   medium = "medium"
   icon = "medium"
-  link = "https://medium.com/proven"
+  link = "https://medium.com/facted"
