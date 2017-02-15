@@ -6,7 +6,7 @@ canonifyURLs = true
 
 [params]
   title = "Facted"
-  description = "Make your photos Proven Facts so that viewers can independently verify their origin"
+  description = "Take pictures that are independently verifiable proven facts"
   logo = "fa-diamond"
   copyright = "1AmOXsGnfXdbNg3RMTyPCHkn2aT"
 
