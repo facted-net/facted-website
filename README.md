@@ -1,5 +1,7 @@
 # facted-website
 
+[![Build Status](https://travis-ci.org/facted-net/facted-website.svg?branch=master)](https://travis-ci.org/facted-net/facted-website)
+
 This is the website [facted.net](http://facted.net).  
 
 It is developed using [Hugo](https://www.gohugo.io/) and the [Dimension](http://themes.gohugo.io/dimension/) theme based on [HTML5 UP](https://html5up.net/uploads/demos/dimension/).
