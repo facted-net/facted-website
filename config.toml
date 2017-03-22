@@ -1,6 +1,5 @@
 languageCode = "en-us"
 title = "Dimension"
-baseurl = "http://facted.net/ipns/facted.net/"
 theme = "dimension"
 canonifyURLs = true
 
