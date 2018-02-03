@@ -1,5 +1,7 @@
 language: go
-before_script:
- - sudo apt-get -qq update
- - sudo apt-get install -y snapd
- - snap install hugo
+sudo: true
+dist: trusty
+
+install:
+ - sudo apt-get --yes install snapd
+ - sudo snap install hugo
